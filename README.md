@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
-
+<h2 align="center">Hey I'm Abdo Al Adawy</h2>
 <h3 align="center">My Tech Stack & Tools</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="c++ logo"  />
@@ -15,6 +15,10 @@
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wireshark" height="60" alt="wireshark logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="60" alt="premiere pro logo"  />
 </div>
 
 <br>
@@ -25,7 +29,26 @@
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   
-  و </div>
+  <a href="https://www.linkedin.com/in/abd-al-rahman-hassan-al-adawy-a2238133b">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  
+  <a href="https://abdo2000-1.github.io/Abdo-Al-Adawy-Portfolio/">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+  </a>
+  
+  <a href="https://x.com/AbdoAlAdawy2000">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="x logo"  />
+  </a>
+  
+  <a href="https://www.youtube.com/@AbdEl-RahmanHasanAl-Adawy">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  
+  <a href="https://www.facebook.com/engineerabdoaladawey/">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+</div>
 
 <br>
 
