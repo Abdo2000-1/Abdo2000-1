@@ -16,8 +16,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wireshark" height="60" alt="wireshark logo"  />
-  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=pr" height="60" alt="premiere pro logo"  />
 </div>
 
