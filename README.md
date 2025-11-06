@@ -55,9 +55,9 @@
 <h3 align="center">My Contribution Snake</h3>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdo2000-1/Abdo2000-1/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdo2000-1/Abdo2000-1/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abdo2000-1/Abdo2000-1/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdo2000-1/Abdo2000-1/main/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdo2000-1/Abdo2000-1/main/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Abdo2000-1/Abdo2000-1/main/dist/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
