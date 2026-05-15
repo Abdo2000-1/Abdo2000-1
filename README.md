@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdo%20Al%20Adawy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20Dev%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdo%20Al%20Adawy&fontSize=60&fontColor=ffffff&fontAlignY=38&%20%7C%20Web%20Dev%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -29,7 +29,6 @@ name: Abd Al-Rahman Hassan Al-Adawy
 alias: Abdo Al Adawy
 university: Cairo University — FCAI
 year: 2nd Year
-major: Software Engineering
 
 passions:
   - 🌐 Web Development
