@@ -33,7 +33,7 @@
 
 </div>
 
-<iframe src="https://github.com/sponsors/Abdo2000-1/button" title="Sponsor Abdo2000-1" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/Abdo2000-1)
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
